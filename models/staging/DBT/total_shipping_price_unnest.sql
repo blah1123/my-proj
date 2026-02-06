@@ -1,8 +1,7 @@
 
--- =========================
 -- MODEL: models/staging/stg_orders_shipping.sql
 -- Unnest total_shipping_price_set
--- =========================
+
 
 {{ config(materialized='table') }}
 
