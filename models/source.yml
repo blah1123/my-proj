@@ -1,0 +1,6 @@
+sources:
+  - name: DBT
+    database: sacred-mantis-485505-k5
+    schema: dbt_ash
+    tables:
+      - name: sample
